@@ -1,0 +1,7 @@
+C:\Users\lenovo\source\repos\Params- C sharp\Params- C sharp\bin\Debug\Params- C sharp.exe.config
+C:\Users\lenovo\source\repos\Params- C sharp\Params- C sharp\bin\Debug\Params- C sharp.exe
+C:\Users\lenovo\source\repos\Params- C sharp\Params- C sharp\bin\Debug\Params- C sharp.pdb
+C:\Users\lenovo\source\repos\Params- C sharp\Params- C sharp\obj\Debug\Params- C sharp.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\Params- C sharp\Params- C sharp\obj\Debug\Params- C sharp.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\Params- C sharp\Params- C sharp\obj\Debug\Params- C sharp.exe
+C:\Users\lenovo\source\repos\Params- C sharp\Params- C sharp\obj\Debug\Params- C sharp.pdb
